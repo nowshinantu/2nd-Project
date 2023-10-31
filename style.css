@@ -1,0 +1,22 @@
+.nows{
+  margin-top: 65px;
+  box-shadow: 5px 5px 25px 10px grey;
+  border-radius: 10px;
+}
+.imagebox{
+  height: 80vh;
+}
+.imagebox img{
+  height: 80vh;
+  width: 100%;
+}
+.loginbox{
+  height: 80vh;
+}
+.loginbox .login{
+  width: 80%;
+  height: 80vh;
+  padding-top: 70px;
+  padding-left: 70px;
+
+}
